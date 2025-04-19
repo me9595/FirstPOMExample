@@ -1,0 +1,11 @@
+19 Apr 2025 16:58:01,965 main - ------> Running test cases on environment : null
+19 Apr 2025 16:58:01,965 main - No environment is given... hence running in QA environment
+19 Apr 2025 16:58:01,965 main - Browser name is : chrome
+19 Apr 2025 16:58:04,928 main - Chrome browser is opened successfully...
+19 Apr 2025 16:58:06,363 main - Application URL is : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+19 Apr 2025 16:58:06,967 main - Login page title is :Account Login
+19 Apr 2025 16:58:07,057 main - Login page URL is :https://naveenautomationlabs.com/opencart/index.php?route=account/login
+19 Apr 2025 16:58:07,305 main - Enter User Name : shindec68@gmail.com
+19 Apr 2025 16:58:07,780 main - Enter Password : @C9595455315c
+19 Apr 2025 16:58:08,610 main - Click on login button..
+19 Apr 2025 16:58:08,644 main - Accounts page title is : My Account
